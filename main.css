@@ -1,0 +1,73 @@
+#main-title {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .content {
+    background-color: black;
+  }
+  
+  p {
+    color: white;
+  }
+
+#second-title {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  ul {
+    color: yellow;
+  }
+
+.hexlet article h2 {
+    color: blueviolet;
+    font-size: 25px;
+    text-align: left;
+  }
+
+  a {
+    color: red;
+  }
+
+#fourth-title {
+    color: white;
+    font-size: 20px;
+    text-align: left;
+  }
+
+  a {
+    color: red;
+  }
+
+  div {
+    width: 500px;
+    height: 500px;
+  
+    background: #333333;
+  }
+  
+  #main {
+    color: white;
+    width: 750px;
+  }
+  
+  .text-white {
+    color: white;
+  }
+  
+  .alert {
+    height: 350px;
+    color: gray;
+  }
+  
+  div {
+    background: blue;
+  }
+  
+  .alert-warning {
+    background: #000000;
+    color: yellow;
+  }
